@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* http://www.akitaonrails.com/2015/12/28/fixing-dhh-s-rails-5-chat-demo
